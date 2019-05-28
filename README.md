@@ -11,7 +11,7 @@ Documented game projects made with Unity 5 C# over the past year
   - Scoring system
   - Character customization shop
   
-## "Shifter" (Strategy game) (Current delay project) (Probably the biggest project as of yet)
+## "Shifter" (Strategy game) (Current delayed project) (Probably the biggest project as of yet)
 * Images/Gifs: https://imgur.com/a/SU0WhS5
 * Implemented features:
   - Main menu
@@ -59,7 +59,7 @@ Documented game projects made with Unity 5 C# over the past year
   - Health System
 
 ## Procedurally generated mesh + deformation
-  Video: https://imgur.com/a/zVd3rmn
+  * Video: https://imgur.com/a/zVd3rmn
   * Implemented features:
     - Generating mesh and adding some randomness using perlin noise
     - Mesh deformation using raycast
