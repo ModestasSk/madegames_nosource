@@ -1,8 +1,8 @@
 # madegames_nosource
 Documented game projects made with Unity 5 C# over the past year
 
-Current one:
-## Infinite scroller mobile game
+
+## Infinite scroller mobile game (Current project)
 * Images/Videos: https://imgur.com/a/cUBORrL
 * Implemented features:
   - Physics character controller
@@ -10,7 +10,25 @@ Current one:
   - Interactable objects such as jump pads, speed boosts, saws, spikes, clouds, turrets etc...
   - Scoring system
   - Character customization shop
-
+  
+## "Shifter" (Strategy game) (Current delay project) (Probably the biggest project as of yet)
+* Images/Gifs: https://imgur.com/a/SU0WhS5
+* Implemented features:
+  - Main menu
+  - Campaign mission system
+  - Dialog system
+  - Core mechanics such as tile and board logic
+  - Matchmaking
+  - Deck generation controller
+  - Player avatars
+  - Player profiles that include their statistics, description, avatar models etc.
+  - Saving/Loading
+  - Loading screen
+  - Pause screen
+  - Very smart AI that uses reward system to determine his best possible move
+  - Game modifiers (2x damage, reverse, defense)
+  These are the main ones, I probably missed a bunch since this project began at November, 2018.
+  
 ## Third person wave defense type of project
 * Images/Videos:https://imgur.com/a/cuSellE
 * Implemented features:
@@ -21,7 +39,7 @@ Current one:
   - Health system
   - Infinite wave generation system
 
-# Rogue-like game
+## Rogue-like game
 * Images: https://imgur.com/a/R517Vob
 * Implemented features:
   - First person controller
@@ -29,8 +47,7 @@ Current one:
   - AI
   -Randomly generated levels
 
-## "Shifter" (Strategy game)
-* Images:
+
 
 ## Top down horror game 
 * Videos: https://imgur.com/a/A5Gptb9
