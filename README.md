@@ -2,14 +2,16 @@
 Documented game projects made with Unity 5 C# over the past year
 
 
-## Infinite scroller mobile game (Current project)
-* Images/Videos: https://imgur.com/a/cUBORrL
+## Infinite scroller mobile game 
+* https://play.google.com/store/apps/details?id=com.AtagoGames.CubeSwipe
 * Implemented features:
   - Physics character controller
   - Level generation
   - Interactable objects such as jump pads, speed boosts, saws, spikes, clouds, turrets etc...
   - Scoring system
   - Character customization shop
+  - Google Play Service (Log in, achievements, leaderboards, IAP)
+  - And more.
   
 ## "Shifter" (Strategy game) (Current delayed project) (Probably the biggest project as of yet)
 * Images/Gifs: https://imgur.com/a/SU0WhS5
