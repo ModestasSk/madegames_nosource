@@ -1,6 +1,9 @@
 # 2018 - 2020 projects
 Documented game projects made with Unity 5 C# over the past year
 
+## Roguelike (current)
+* Combat system that supports flexible combo system of chain attacks, has parry, dash, AI, target locking, stances.
+https://twitter.com/JustAtago/status/1225410398922432514?s=20
 
 ## Infinite scroller mobile game 
 * https://play.google.com/store/apps/details?id=com.AtagoGames.CubeSwipe
@@ -15,6 +18,7 @@ Documented game projects made with Unity 5 C# over the past year
   
 ## "Shifter" (Strategy game) (Current delayed project) (Probably the biggest project as of yet)
 * Images/Gifs: https://imgur.com/a/SU0WhS5
+* Devblog https://youtu.be/tK2jOwpyhlc?t=42
 * Implemented features:
   - Main menu
   - Campaign mission system
