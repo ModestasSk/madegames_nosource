@@ -5,7 +5,7 @@ Documented game projects made with Unity 5 C# over the past year
 * Combat system that supports flexible combo system of chain attacks, has parry, dash, AI, target locking, stances.
 https://twitter.com/JustAtago/status/1225410398922432514?s=20
 
-## Infinite scroller mobile game 
+## Infinite scroller mobile game (Published)
 * https://play.google.com/store/apps/details?id=com.AtagoGames.CubeSwipe
 * Implemented features:
   - Physics character controller
